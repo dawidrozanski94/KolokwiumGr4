@@ -1,0 +1,2 @@
+C:\Users\local\Desktop\kolokwiumGr4\kolokwiumGr4\bin\Debug\kolokwiumGr4.exe.config
+C:\Users\local\Desktop\kolokwiumGr4\kolokwiumGr4\obj\Debug\kolokwiumGr4.csprojResolveAssemblyReference.cache
