@@ -1,1 +1,0 @@
-# KolokwiumGr4
